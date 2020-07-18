@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+.RProj*
+
+br_municipios*
+
+.DS_Store
+
+README.html
